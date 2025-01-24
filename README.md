@@ -21,4 +21,5 @@ MENTOR : NEELA SANTOSH
 ## Where This Project Can Be Applicable -> Weather Monitoring Systems, Education and Learning, Travel and Tourism Applications
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/820db36b-9b84-4a0c-be85-cbea57d99ec5)
 
